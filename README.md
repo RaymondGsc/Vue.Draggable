@@ -1,4 +1,4 @@
-# Vue.Draggable
+# Vue.Draggable Turbo
 
 
 [![GitHub open issues](https://img.shields.io/github/issues/David-Desmaisons/Vue.Draggable.svg?maxAge=2592000)]()
@@ -20,6 +20,7 @@ Based on and offering all features of [Sortable.js](https://github.com/RubaXa/So
 
 ##Features
 
+* Fix nested lists bugs
 * Full support of [Sortable.js](https://github.com/RubaXa/Sortable) features
 * Keeps in sync view model and view
 * No jquery dependency

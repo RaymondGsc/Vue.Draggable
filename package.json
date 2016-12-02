@@ -1,12 +1,13 @@
 {
-  "name": "vuedraggable",
+  "name": "vuedraggable-turbo",
   "version": "2.4.0",
-  "description": "draggable component for vue",
+  "description": "draggable component for vue fix nested lists bugs",
   "main": "dist/vuedraggable.js",
   "files": [
     "dist/vuedraggable.js"
   ],
   "keywords": [
+  	"nested",
     "vue",
     "vuejs",
     "drag and drop",
